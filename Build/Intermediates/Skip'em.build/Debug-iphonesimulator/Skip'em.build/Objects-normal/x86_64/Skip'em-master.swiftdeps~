@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "c516c457a00a3f2562509365d922fc1b"
+build_time: [1518310705, 860163000]
+inputs:
+  "/Users/davalcato/Desktop/Skip'em/Skip'em/LoginViewController.swift": [1518307681, 0]
+  "/Users/davalcato/Desktop/Skip'em/Skip'em/ViewController.swift": [1518310700, 0]
+  "/Users/davalcato/Desktop/Skip'em/Skip'em/AppDelegate.swift": [1517185195, 0]
+  "/Users/davalcato/Desktop/Skip'em/Skip'em/RegisterPageViewController.swift": [1518307683, 0]
